@@ -25,7 +25,7 @@ print(fruits5)
 
 # จงแสดงตัวสุดท้ายของ fruits
 fruits6 = ["apple", "banana", "cherry"]
-print(fruits6[2])
+print(fruits6[-1])
 
 # จงแสดงจำนวนของ fruits
 fruits8 = ["apple", "banana", "cherry"]
