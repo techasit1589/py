@@ -5,7 +5,8 @@ cafe_ao_udom_set = {
     "Milk Land",
 }
 # 1.จงเขียนคำสั่งเพื่อแสดงค่าของใน cafe_ao_udom_set ทั้งหมด
-print(cafe_ao_udom_set)
+for c in cafe_ao_udom_set:
+    print(c)
 # 2.จงเขียนคำสั่งเพื่อเพิ่มค่าใน cafe_ao_udom_set โดยเพิ่ม "Baannom" ลงไป
 cafe_ao_udom_set.add("Baannom")
 print(cafe_ao_udom_set)
