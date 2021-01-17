@@ -4,7 +4,6 @@ cafe_ao_udom_set = {
     "Zlowpoke",
     "Milk Land",
 }
-
 # 1.จงเขียนคำสั่งเพื่อแสดงค่าของใน cafe_ao_udom_set ทั้งหมด
 print(cafe_ao_udom_set)
 # 2.จงเขียนคำสั่งเพื่อเพิ่มค่าใน cafe_ao_udom_set โดยเพิ่ม "Baannom" ลงไป
